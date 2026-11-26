@@ -8,5 +8,5 @@
  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
  ![POWERBI](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=00C3FF)&nbsp;)
  ![IA](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=A2FF00)&nbsp;)
- ![MACHINE LEARNING](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=90FF15)&nbsp;)
+
  
